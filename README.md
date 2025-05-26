@@ -1,6 +1,8 @@
 # TASK-5
 EDA(EXPLORATORY DATA ANALYSIS)
+
 ✅ Final Takeaways from EDA
+
 Seasonality and lead time are major factors affecting booking and cancellation behavior.
 
 City Hotels are more prone to cancellations.
